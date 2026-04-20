@@ -35,3 +35,5 @@ Cada grupo deve incluir neste repositório:
   - `elementos_rede.png` ou `elementos_rede.pdf`
   - `classificacao_redes.pdf` ou `classificacao_redes.png`
   - `README.md` com breve descrição do trabalho.
+-![LIVRO](<img width="321" height="425" alt="image" src="https://github.com/user-attachments/assets/7538524f-5cc0-4ec7-b23b-5e086233d231" />
+)
